@@ -24,8 +24,11 @@ R18cn 是 [发车站点](https://www.R18cn.com) 为新老司机提供最新的�
 
 ## 联系我们
 
-站长的TeleGram [个人帐号 ](https://t.me/R18plus).
-TeleGram道 [发车频道 ](https://t.me/R18cncom).
-TeleGram [步兵讨论组 ](https://t.me/R18cn).
-R18cn [Twitter ](https://twitter.comj/R18cn).
+站长的TeleGram   [个人帐号 ](https://t.me/R18plus).
+
+电报 TeleGram 的 [发车频道 ](https://t.me/R18cncom).
+
+电报 TeleGram 的 [步兵讨论组 ](https://t.me/R18cn).
+
+R18cn.COM 的 [Twitter ](https://twitter.comj/R18cn).
 
