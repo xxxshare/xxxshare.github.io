@@ -5,25 +5,18 @@ R18cn 是 [发车站点](https://www.R18cn.com) 为新老司机提供最新的�
  
 
 ```markdown
-下面这段无关本站内容，请忽视
+ 
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+- 这是一个基于 [GitHub ](https://github.com/) 和[GitBook ](https://gitbook.com/) 建立的导向站.
+- 我们将车号，封面图片、下载链接，都存放在 Google 的[Blogger ](https://r18cn.blogspot.com/).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ 
 ```
 
-这是一个基于 [GitHub ](https://github.com/) 和[GitBook ](https://gitbook.com/) 建立的导向站.
-我们将车号，封面图片、下载链接，都存放在 Google 的[Blogger ](https://r18cn.blogspot.com/).
+
+
 
 
 
