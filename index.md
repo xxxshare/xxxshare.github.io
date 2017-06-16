@@ -17,7 +17,7 @@ R18cn 是 [发车站点](https://www.R18cn.com) 为新老司机提供最新的�
 
 这是一个基于 [GitHub ](https://github.com/) 和[GitBook ](https://gitbook.com/) 建立的导向站.
 
-我们将车号，封面图片、下载链接，都存放在 Google 的[Blogger ](https://r18cn.blogspot.com/).
+我们将车号，封面图片、下载链接，都存放在 [Blogger ](https://r18cn.com/).
 
 
 
@@ -27,6 +27,12 @@ R18cn 是 [发车站点](https://www.R18cn.com) 为新老司机提供最新的�
 站长的TeleGram   [个人帐号 ](https://t.me/R18plus).
 
 电报 TeleGram 的 [发车频道 ](https://t.me/R18cncom).
+
+电报 TeleGram 的 [车友频道 ](https://t.me/R18top).
+
+电报 TeleGram 的 [韩影社 ](https://t.me/R18kr).
+
+电报 TeleGram 的 [JAV东京热不热 ](https://t.me/R18jp).
 
 电报 TeleGram 的 [步兵讨论组 ](https://t.me/R18cn).
 
