@@ -1,6 +1,6 @@
-## Welcome to R18cn
-
-R18cn 是 [发车站点](https://www.R18cn.com) 为新老司机提供最新的车号和磁力链下载.
+## Welcome to R18cn.com
+# 网站服务正在维护中.........
+R18cn.com 是 [发车站点](https://www.R18cn.com) 为新老司机提供最新的车号和磁力链下载.
 
  
  ![logo](https://user-images.githubusercontent.com/26520759/27231605-b28594f8-52e5-11e7-9128-e47b6a62e31f.jpg)
